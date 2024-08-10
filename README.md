@@ -1,1 +1,2 @@
 # StudentPerformancePredictionModel
+Created model used to predict Student "class score" based on academic data such as GPA, extracurriculars, sports, parental history, etc. Class score ranges from 0-4 with 0 being the best class score and 4 being the worst. Used the Student Performance dataset on Kaggle to train this model. Model uses a fully connected neural network with ReLU activation, Batch Normalization, and Softmax to make predictions.
